@@ -1,3 +1,34 @@
 MIT License
+GitHub License Agreement for Pokémon TCG Project
 
-Copyright (c) 
+This License Agreement (the "Agreement") is made and entered into by and between "WyldKnyght" (the "Licensor"), and any person or entity accessing or using the Licensor's software code, documents, and related materials (collectively, the "Materials").
+
+Intellectual Property Rights
+The Licensor retains all intellectual property rights in and to the Materials, including but not limited to any patents, copyrights, trademarks, trade secrets, and any other proprietary rights. The Licensee may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products, or services obtained from the Materials.
+
+No Affiliation with Pokémon
+The Licensor is not affiliated with Pokémon, Nintendo, or any other related company or organization. The Materials are original to the Licensor's idea and not copied from someone else. The Licensor has acquired all Materials through open-source or legitimate APIs.
+
+License Grant
+Subject to the terms and conditions of this Agreement, the Licensor hereby grants the Licensee a non-exclusive, non-transferable, revocable license to use, copy, and modify the Materials solely for the Licensee's own personal or internal business purposes.
+
+Restrictions on Use
+The Licensee may not sublicense, assign, transfer, sell, distribute, or otherwise make available the Materials to any third party, except as expressly permitted herein. The Licensee agrees not to use the Materials in any way that could harm or damage the Licensor's reputation or business interests.
+
+Termination
+This Agreement shall remain in effect until terminated by either party. The Licensor may terminate this Agreement at any time without notice. Upon termination, the Licensee must immediately cease all use of the Materials and destroy all copies of the Materials in the Licensee's possession.
+
+Disclaimer of Warranty
+The Materials are provided "AS IS," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. The Licensor makes no warranty that the Materials will meet the Licensee's requirements or that the Materials will be uninterrupted, timely, secure, or error-free. The Licensee assumes all risk and responsibility for the use of the Materials.
+
+Limitation of Liability
+In no event shall the Licensor be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including but not limited to procurement of substitute goods or services; loss of use, data, or profits; or business interruption) arising in any way out of the use, inability to use, or reliance upon the Materials, even if advised of the possibility of such damages.
+
+Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of Prince Edward Island, Canada. Any legal action or proceeding arising under this Agreement shall be brought in the courts located in Prince Edward Island, Canada.
+
+Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between the parties relating to the Materials.
+
+Acknowledgment and Acceptance
+By using or accessing the Materials, the Licensee acknowledges that it has read this Agreement, understands it, and agrees to be bound by its terms and conditions.
