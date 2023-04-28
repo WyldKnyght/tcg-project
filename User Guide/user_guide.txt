@@ -1,0 +1,108 @@
+User Guide for the tcg-project
+
+Introduction:
+
+The tcg-project repository on GitHub is a machine learning model that predicts the outcome of matches between two given decks in the Pokemon Trading Card Game. The goal of this user guide is to help the user understand the main features and functionalities of the project and provide instructions on how to use them.
+
+Main Features and Functionalities:
+
+1. Decklists: The repository contains a number of pre-constructed decklists that can be used to test the model or build upon them for further experimentation.
+2. Scripts: There are a number of scripts available in the repository that can be used for various purposes such as preprocessing data, training models, testing models, etc.
+3. Dataset: The repository contains a dataset of over 10,000 matches, preprocessed and available in CSV format. The dataset can be used for training and testing models.
+
+Instructions:
+
+1. Cloning the Repository: The first step in using the tcg-project is to clone the repository, either using git or GitHub Desktop.
+2. Installing Dependencies: Before running any scripts, it is necessary to install the dependencies, either using pip or conda.
+3. Running Scripts: Scripts can be run from the command line or from an IDE such as Jupyter Notebook. Each script will have its own set of instructions on how to run and what it does.
+4. Building Your Own Decklist: The repository provides a number of pre-constructed decklists, but users can also build their own decklists and test them against other decklists. Instructions on how to build decklists can be found on the Pokemon Trading Card Game website.
+5. Training and Testing Models: After cloning the repository and installing dependencies, users can train and test models using scripts provided in the repository. Users can also experiment with different models and parameters to improve the accuracy of the predictions.
+
+Conclusion:
+
+The tcg-project on GitHub is a machine learning model that predicts the outcome of matches between two given decks in the Pokemon Trading Card Game. Users can experiment with pre-constructed decklists or build their own, train and test models using scripts provided in the repository, and experiment with different models and parameters to improve the accuracy of the predictions.
+
+
+Instructions:
+
+1. Cloning the Repository: The first step in using the tcg-project is to clone the repository, either using git or GitHub Desktop.
+
+To clone using git from the command line, use the following command:
+
+$ git clone https://github.com/WyldKnyght/tcg-project.git
+
+To clone using GitHub Desktop, follow these steps:
+
+- Open GitHub Desktop and go to File > Clone Repository
+- Select 'WyldKnyght/tcg-project' from the list of repositories
+- Choose where you want to save the repository and click 'Clone'
+
+After cloning the repository, users can continue with the following instructions to setup the project.
+
+
+2. Installing Dependencies: Before running any scripts, it is necessary to install the dependencies, either using pip or conda.
+
+To install the dependencies using pip, use the following command:
+
+$ pip install -r requirements.txt
+
+To install the dependencies using conda, use the following command:
+
+$ conda create --name tcg-project --file requirements.txt
+$ activate tcg-project
+
+After installing the dependencies, users can continue with the following instructions to run scripts or build their own decklists.
+
+
+3. Running Scripts: Scripts can be run from the command line or from an IDE such as Jupyter Notebook. Each script will have its own set of instructions on how to run and what it does.
+
+To run a script from the command line:
+
+- Open a terminal or command prompt
+- Navigate to the directory where the script is located
+- Run the script using the following command:
+
+$ python script-name.py
+
+After running the script, users can continue with the following instructions to build their own decklists or train and test models.
+
+
+6. Simulating Matches: To simulate matches between two decks, use the following steps:
+
+- Navigate to the 'scripts' directory in the repository.
+- Open the 'simulator.py' script and modify the following lines:
+
+  - Line 9: Set 'path_to_decklists' to the path of the 'decklists' directory in the repository
+  - Line 10: Set 'path_to_data' to the path where the dataset should be saved
+
+- Run the 'simulator.py' script using the following command:
+
+$ python simulator.py deck1.txt deck2.txt
+
+- Replace 'deck1.txt' and 'deck2.txt' with the names of the decklist files to simulate a match between the decks.
+
+After simulating matches, users can continue with the following instructions to explore the dataset in the repository.
+
+
+7. Exploring the Dataset: The tcg-project repository on GitHub includes a dataset of decklists and corresponding meta-data, which can be explored and analyzed using the following steps:
+
+- Navigate to the 'data' directory in the repository.
+- Use the following command to load the dataset into a pandas dataframe:
+
+  > import pandas as pd
+  > data = pd.read_csv('decklist_data.csv')
+
+- Explore the dataset and meta-data using pandas functions, e.g.:
+
+  > data.head()
+  > data.describe()
+  > data['format'].value_counts()
+
+- Visualize the dataset using matplotlib or seaborn, e.g.:
+
+  > import matplotlib.pyplot as plt
+  > import seaborn as sns
+  > sns.countplot(x='format', data=data)
+  > plt.show()
+  
+After exploring the dataset, users can continue with the following instructions to improve the machine learning model or build their own custom decklists.
