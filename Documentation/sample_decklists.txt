@@ -1,0 +1,22 @@
+Pokemon - 22
+3 Ferroseed SSH 130
+2 Ferrothorn SSH 131
+3 Pawniard SSH 133
+2 Bisharp SSH 134
+2 Corviknight SSH 135
+3 Rookidee SSH 150
+3 Corvisquire SSH 151
+2 Duraludon RCL 138
+2 Zamazenta RCL 140
+Trainer - 20
+2 Great Ball SSH 164
+4 Hop SSH 165
+2 Metal Saucer SSH 170
+2 Poké Kid SSH 173
+2 Potion SSH 177
+2 Professor's Research (Professor Magnolia) SSH 178
+2 Switch SSH 183
+2 Dan RCL 158
+2 Sonia RCL 167
+Energy - 18
+18 Metal Energy 8

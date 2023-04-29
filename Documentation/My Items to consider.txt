@@ -1,0 +1,148 @@
+Items to consider:
+
+The information presented on this website about the Pokémon Trading Card Game, including images and text, is intellectual property of The Pokémon Company, Nintendo, Game Freak, Creatures and/or Wizards of the Coast. TCG Collector is not produced by, endorsed by, supported by, or affiliated with any of these companies.
+
+Copyright © 2017 – 2023 TCG Collector
+
+=======================
+
+Help Section
+About Section
+Roadmap
+Contact
+Terms and privacy
+
+==========
+
+TCG COLLECTOR HELP
+Getting started (coming soon)
+Frequently asked questions
+Report an issue
+Frequently asked questions
+I have a Japanese card that is not listed
+I have a variant of a Japanese card that is not listed
+How is the market price on the dashboard calculated?
+The market price on the dashboard is incorrect or doesn't change
+How are the prices on the expansions and cards overview calculated?
+Why are there no prices for Japanese cards?
+What will happen to my collection when premium subscriptions are launched?
+Is there an app for Android or iOS?
+
+==========================================
+
+About TCG Collector
+TCG Collector is an extensive Pokémon card database and collection tracker. It has the most complete database of both international and Japanese cards and includes almost every card variant ever released such as Reverse Holo and 1st Edition. Its aim is to track as much information about your collection as possible and to provide you detailed insights about it. It's created and maintained by Egon Olieux.
+
+Donate
+To make the site faster and more enjoyable to use, TCG Collector is free of advertisements. However, keeping the site running is not without its costs. If you would like to help us cover these costs, please feel free to make a donation. Thanks!
+
+Credits
+TCG Collector wouldn't be possible without the help of its contributors! Here is a list of people and projects that we would like to thank for their work.
+
+PkmnCards and Malie for their work on high quality card images and scans.
+Ben Luelo for his overall help to the project and his involvement with our community.
+strawbanya for creating our logo.
+
+============================================
+
+Contact us
+If you have a question, please check out the frequently asked questions first. You can also contact us on Discord, Twitter or Facebook.
+
+Your name
+Your email address
+Subject
+Message
+Before typing your message, please check out the frequently asked questions to see if your question already has an answer!
+ 
+===========================================
+
+Roadmap
+TCG Collector is constantly evolving. New features and improvements are being worked on all the time, and we want to keep our users involved in this process as much as possible.
+
+Our roadmap is largely based on suggestions from our users, with the most requested features having the highest priority. It also includes tasks related to the card database and known issues. You can also check out what we're currently working on.
+
+You can view our roadmap here.
+Feedback and suggestions
+If you have feedback or suggestions, you can tell us about it here. Alternatively, feel free to create an issue directly on our roadmap.
+
+Contribute to the card database
+Did you notice a card database task on our roadmap that you would like to help with? You can check out how to contribute here. If you have more questions, feel free to ask us at any time.
+
+An overview of all missing card images can be found here.
+
+==========================================================
+
+Terms of service
+These terms of service govern your use of the website located at https://www.tcgcollector.com/ and any related services provided by TCG Collector.
+
+By accessing https://www.tcgcollector.com/, you agree to abide by these terms of service and to comply with all applicable laws and regulations. If you do not agree with these terms of service, you are prohibited from using or accessing this website or using any other services provided by TCG Collector.
+
+We, TCG Collector, reserve the right to review and amend any of these terms of service at our sole discretion. Upon doing so, we will update this page. Any changes to these terms of service will take effect immediately from the date of publication.
+
+These terms of service were last updated on December 10, 2022.
+
+Limitations of use
+By using this website, you warrant on behalf of yourself, your users, and other parties you represent that you will not:
+
+modify, copy, prepare derivative works of, decompile, or reverse engineer any materials and software contained on this website;
+remove any copyright or other proprietary notations from any materials and software on this website;
+transfer the materials to another person or “mirror” the materials on any other server;
+knowingly or negligently use this website or any of its associated services in a way that abuses or disrupts our networks or any other service TCG Collector provides;
+use this website or its associated services to transmit or publish any harassing, indecent, obscene, fraudulent, or unlawful material;
+use this website or its associated services in violation of any applicable laws or regulations;
+use this website in conjunction with sending unauthorized advertising or spam;
+harvest, collect, or gather user data without the user's consent; or
+use this website or its associated services in such a way that may infringe the privacy, intellectual property rights, or other rights of third parties.
+Acceptable use
+Please refer to our acceptable use policy for more information.
+
+Intellectual property
+The information presented on this website about the Pokémon Trading Card Game, including images and text, is intellectual property of The Pokémon Company, Nintendo, Game Freak, Creatures and/or Wizards of the Coast. TCG Collector is not produced by, endorsed by, supported by, or affiliated with any of these companies.
+
+The intellectual property in other materials contained in this website are owned by or licensed to TCG Collector and are protected by applicable copyright and trademark law. We grant our users permission to download one copy of the materials for personal, non-commercial transitory use.
+
+This constitutes the grant of a license, not a transfer of title. This license shall automatically terminate if you violate any of these restrictions or the terms of service, and may be terminated by TCG Collector at any time.
+
+User-generated content
+You retain your intellectual property ownership rights over content you submit to us for publication on our website. We will never claim ownership of your content, but we do require a license from you in order to use it.
+
+When you use our website or its associated services to post, upload, share, or otherwise transmit content covered by intellectual property rights, you grant to us a non-exclusive, royalty-free, transferable, sub-licensable, worldwide license to use, distribute, modify, run, copy, publicly display, translate, or otherwise create derivative works of your content in a manner that is consistent with your privacy preferences and our Privacy Policy.
+
+The license you grant us can be terminated at any time by deleting your content or account. However, to the extent that we (or our partners) have used your content in connection with commercial or sponsored content, the license will continue until the relevant commercial or post has been discontinued by us.
+
+You give us permission to use your username and other identifying information associated with your account in a manner that is consistent with your privacy preferences, and our Privacy Policy.
+
+Premium subscriptions
+This section covers our terms regarding premium subscriptions.
+
+Billing: We'll automatically bill you on each periodic renewal until cancelation. We'll send you an email reminding you that your plan is about to renew within a reasonable period of time prior to the renewal date.
+
+Cancelation: You may cancel your subscription at any time. Canceled subscriptions remain active until the end of the billing cycle (the period you paid for), unless your account is terminated. Canceled subscriptions can be reactivated without any charge (before they have expired). Refunds are only issued if required by law.
+
+Changing your billing plan: You may change your billing plan to a longer period (e.g., from monthly to yearly), but not the other way around. The cost of the remaining time of your billing plan will be subtracted from the cost of your new billing plan. If you want to change your billing plan to a shorter period, you will have to cancel your subscription and wait until it has expired before starting a new subscription with the shorter billing plan.
+
+Price changes: We may change subscription prices to reflect factors such as changes to our business, or changes in economic conditions. We'll give you no less than 30 days advance notice of these changes by email, and you'll have the opportunity to cancel your subscription before the new prices comes into effect.
+
+Liability
+Our website and the materials on our website are provided on an 'as is' basis. To the extent permitted by law, TCG Collector makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property, or other violation of rights.
+
+In no event shall TCG Collector or its suppliers be liable for any consequential loss suffered or incurred by you or any third party arising from the use or inability to use this website or the materials on this website, even if TCG Collector or an authorized representative has been notified, orally or in writing, of the possibility of such damage.
+
+In the context of this agreement, "consequential loss" includes any consequential loss, indirect loss, real or anticipated loss of profit, loss of benefit, loss of revenue, loss of business, loss of goodwill, loss of opportunity, loss of savings, loss of reputation, loss of use and/or loss or corruption of data, whether under statute, contract, equity, tort (including negligence), indemnity, or otherwise.
+
+Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+
+Accuracy of materials
+The materials appearing on our website are not comprehensive and are for general information purposes only. TCG Collector does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on this website, or otherwise relating to such materials or on any resources linked to this website.
+
+Links
+TCG Collector has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement, approval, or control by TCG Collector of the site. Use of any such linked site is at your own risk and we strongly advise you make your own investigations with respect to the suitability of those sites.
+
+Right to terminate
+We may suspend or terminate your right to use our website and terminate these terms of service immediately upon written notice to you for any breach of these terms of service.
+
+Severance
+Any term of these terms of service which is wholly or partially void or unenforceable is severed to the extent that it is void or unenforceable. The validity of the remainder of these terms of service is not affected.
+
+Governing law
+These terms of service are governed by and construed in accordance with the laws of Belgium. You irrevocably submit to the exclusive jurisdiction of the courts in that State or location.

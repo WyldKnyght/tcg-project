@@ -1,0 +1,1 @@
+Create a new folder called `decks` to store the decks. Modify the `load_deck` function to load decks from the `decks` folder. Update the `import_deck` function to allow users to import decks into the `decks` folder.

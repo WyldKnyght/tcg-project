@@ -1,0 +1,5 @@
+- Update the `load_deck` function to use `os.path.join()` to join file paths, `os.path.exists()` to check if a file exists, and `with open() as` syntax.
+- Create the `decks` folder if it doesn't exist using `os.makedirs()`.
+- Update the `validate_deck` function to check if the deck name matches the file name.
+- Update the `import_deck` function to incorporate some of these suggestions to improve the code. 
+- Introduce unit tests using the `unittest` module to ensure that the code is working as expected.
